@@ -48,11 +48,19 @@ body{
 
 
 p{
-    margin: 24px 15px;
+    padding: 10px 15px;
+}
+
+.cima{
+    padding-top: 24px;
+}
+
+.baixo{
+    padding-bottom: 24px;
 }
 
 .container{
-    margin: 24px 0;
+    margin: 24px;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -79,6 +87,7 @@ h3{
     font-size: x-large;
     display: flex;
     justify-content: center;
+    padding-top: 13px;
 }
 
 h4{
