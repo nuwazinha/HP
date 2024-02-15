@@ -29,7 +29,7 @@ header a:hover{
 }
 
 body{
-    background-image: url(./img/background.jpg);
+    background-image: url(./img/background2.png);
 }
 
 /*form*/
@@ -95,4 +95,13 @@ button:hover{
     border: 2px solid rgb(230, 212, 172);
     color: rgb(230, 212, 172);
     background-color: rgb(99, 12, 12);
+}
+
+/*footer*/
+
+footer{
+    background-color: rgb(67, 18, 18);
+    color: bisque;
+    display: flex;
+    justify-content: center;
 }
